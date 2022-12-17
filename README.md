@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Dirga Astya Wisnuwardana<br><br>💻 I am Frontend Developer<br><br>
+Hi, I am Dirga Astya Wisnuwardana<br><br>💻Frontend Developer<br><br>
 
 
 ## 🌐 Socials:
